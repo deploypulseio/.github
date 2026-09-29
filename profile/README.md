@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h3 align="center">Hosted over-the-air updates for React Native and Expo</h3>
+<h3 align="center">Hosted over-the-air updates for React Native &amp; Expo</h3>
 
 <p align="center">
   Ship a fix in seconds, not in a week of app store review.
@@ -33,7 +33,7 @@ dpctl release-react MyApp-iOS ios -d Production
 
 <br />
 
-## Why teams move here
+## Why DeployPulse
 
 **Switch in minutes, not days.** Keep `react-native-code-push` and the workflow your team knows.
 Migrating from App Center or another CodePush host is one server URL: no native rebuild, no app store
@@ -66,6 +66,16 @@ awake to notice.
 
 <br />
 
+## Tools & SDKs
+
+| Repository | |
+|------------|--|
+| [**dpctl**](https://github.com/deploypulseio/dpctl) | The CLI. Create apps, release, promote, roll back, read failure reports. |
+| [**react-native-code-push**](https://github.com/deploypulseio/react-native-code-push) | The React Native SDK, preconfigured for DeployPulse. |
+| [**setup-dpctl**](https://github.com/deploypulseio/setup-dpctl) | GitHub Action that installs `dpctl` in a workflow. |
+
+<br />
+
 ## Start free
 
 **10,000 monthly active users, no credit card.** Paid plans start at $20/month and never block your
@@ -73,16 +83,6 @@ updates: go over and we email you, we do not switch your app off.
 
 <a href="https://deploypulse.io/register"><strong>Create an account</strong></a> or read the
 <a href="https://docs.deploypulse.io/quickstart">quickstart</a>.
-
-<br />
-
-## Open source
-
-| Repository | |
-|------------|--|
-| [**dpctl**](https://github.com/deploypulseio/dpctl) | The CLI. Create apps, release, promote, roll back, read failure reports. |
-| [**react-native-code-push**](https://github.com/deploypulseio/react-native-code-push) | The React Native SDK, preconfigured for DeployPulse. |
-| [**setup-dpctl**](https://github.com/deploypulseio/setup-dpctl) | GitHub Action that installs `dpctl` in a workflow. |
 
 <br />
 
